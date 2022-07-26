@@ -1,6 +1,4 @@
-Comandos ejecutados en consola
-
-Usando la consola de Rails...
+## Comandos ejecutados en consola: Usando la consola de Rails...
 
 #### Cree algunos registros en la tabla usuarios utilizando la consola de Rails.
 * User.create(first_name: "Sara", last_name: "Castro",email_address: "sara@gmail.com", age:59) 
