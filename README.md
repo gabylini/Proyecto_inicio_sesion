@@ -27,4 +27,4 @@ User.order(:first_name)
 * u.save
 
 #### Elimine el registro de usuario cuyo id es 4 (utilice algo como Usuario.find(2).destroy...) 
-*User.find(4).destroy
+* User.find(4).destroy
